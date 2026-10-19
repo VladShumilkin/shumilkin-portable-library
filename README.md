@@ -13,7 +13,7 @@
 
 ## Скачать
 
-Архивы публикуются в [GitHub Releases](https://github.com/VladShumilkin/shumilkin-portable-library/releases). Скачивайте нужные разделы отдельно.
+Архивы публикуются в [GitHub Releases](https://github.com/VladShumilkin/shumilkin-portable-library/releases). Скачивайте нужные разделы отдельно. [Прямые ссылки на все файлы](DOWNLOADS.md).
 
 ## Поиск материалов
 
