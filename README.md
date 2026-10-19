@@ -21,7 +21,7 @@
 
 В каталоге можно искать номер ГОСТа, название программы или документа. Для поиска самого репозитория используйте «Переносная библиотека Шумилкина» или `shumilkin-portable-library`.
 
-## Готовые архивы исходной библиотеки
+## Архивы библиотеки
 
 | Архив | Размер, МБ |
 | --- | ---: |
@@ -45,3 +45,6 @@
 ## English
 
 A portable engineering reference collection by Shumilkin: electronics, RF engineering, circuit design, GOST and ESKD standards, Altium Designer component libraries and templates, LTspice simulation resources, Ansys SIwave and Q3D documentation, and engineering project examples. Browse the text catalog for file names and use Releases for archive downloads.
+
+
+Дополнительно упакованы полные папки `VladLib` (VladLib.zip) и «Полезные картинки» (useful-pictures.zip). Отдельные PDF и DOCX из корня библиотеки также доступны в выпуске. Для проверки загрузок приложен файл SHA256SUMS.txt.
