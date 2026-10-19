@@ -17,7 +17,7 @@
 
 ## Поиск материалов
 
-[Текстовый каталог по разделам](catalog/README.md) содержит имена файлов из локальных папок. [Полная таблица файлов](inventory.csv) содержит относительные пути и размеры. Каталог папок не является проверкой актуальности готовых архивов.
+[Содержимое архивов](archive-catalog/README.md) перечисляет записи непосредственно из всех 14 архивов. [Текстовый каталог локальных папок](catalog/README.md) содержит имена файлов из локальных папок. [Полная таблица файлов](inventory.csv) содержит относительные пути и размеры. Каталог папок не является проверкой актуальности готовых архивов.
 
 В каталоге можно искать номер ГОСТа, название программы или документа. Для поиска самого репозитория используйте «Переносная библиотека Шумилкина» или `shumilkin-portable-library`.
 
@@ -38,6 +38,8 @@
 | LTSpice.rar | 429.9 |
 | Templates.rar | 1.3 |
 
+Дополнительно упакованы полные папки `VladLib` (VladLib.zip) и «Полезные картинки» (useful-pictures.zip). Отдельные PDF и DOCX из корня библиотеки также доступны в выпуске. Для проверки загрузок приложен файл SHA256SUMS.txt.
+
 ## Права на материалы
 
 Права на сторонние книги, стандарты, документацию, модели и программные компоненты принадлежат соответствующим правообладателям. Общая лицензия на всю подборку не предоставляется; условия использования отдельных материалов определяются их авторами и лицензиями.
@@ -45,6 +47,3 @@
 ## English
 
 A portable engineering reference collection by Shumilkin: electronics, RF engineering, circuit design, GOST and ESKD standards, Altium Designer component libraries and templates, LTspice simulation resources, Ansys SIwave and Q3D documentation, and engineering project examples. Browse the text catalog for file names and use Releases for archive downloads.
-
-
-Дополнительно упакованы полные папки `VladLib` (VladLib.zip) и «Полезные картинки» (useful-pictures.zip). Отдельные PDF и DOCX из корня библиотеки также доступны в выпуске. Для проверки загрузок приложен файл SHA256SUMS.txt.

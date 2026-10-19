@@ -1,4 +1,6 @@
-# LTSpice  ```text
+# LTSpice
+
+```text
 LTSpice/00_основные файлы/[Besschetnova_L.V.,_Kuzmin_YU.I.,_Malinin_S.I.]_Sh(libcats.org).pdf
 LTSpice/00_основные файлы/Лаб.практикум ИТМО LTSpice.pdf
 LTSpice/00_основные файлы/Лаб.практикум политехG.pdf

@@ -1,4 +1,6 @@
-# Рабочие проекты  ```text
+# Рабочие проекты
+
+```text
 Рабочие проекты/delay_comparator/__Previews/Sheet1.SchDocPreview
 Рабочие проекты/delay_comparator/пдф в0.1/Э3 в0.1.pdf
 Рабочие проекты/delay_comparator/delay_bottom_layer.pdf

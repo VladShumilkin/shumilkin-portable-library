@@ -1,4 +1,6 @@
-# Инструкции  ```text
+# Инструкции
+
+```text
 Инструкции/Siwave_DC_IR_FOC_controller_v2.pdf
 Инструкции/VladLib/Copy of VladPcbLib.PcbLib
 Инструкции/VladLib/library_footprints/.hgignore

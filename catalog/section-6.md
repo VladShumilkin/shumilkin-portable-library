@@ -1,4 +1,6 @@
-# Проекты-примеры  ```text
+# Проекты-примеры
+
+```text
 Проекты-примеры/Датчик угловых скоростей/__Previews/A.SchDocPreview
 Проекты-примеры/Датчик угловых скоростей/__Previews/datch.SchDocPreview
 Проекты-примеры/Датчик угловых скоростей/__Previews/Pit.SchDocPreview

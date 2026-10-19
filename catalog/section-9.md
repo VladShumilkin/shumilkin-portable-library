@@ -1,4 +1,6 @@
-# Libraries  ```text
+# Libraries
+
+```text
 Libraries/библиотека альтиум ГОСТ.zip
 Libraries/A_Устройства/A.PcbLib
 Libraries/A_Устройства/A.SchLib
