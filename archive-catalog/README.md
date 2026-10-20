@@ -16,3 +16,4 @@
 - [Templates.rar](Templates.rar.md) — 86 записей
 - [useful-pictures.zip](useful-pictures.zip.md) — 82 записей
 - [VladLib.zip](VladLib.zip.md) — 1118 записей
+- [матлаб гайды.zip — MATLAB и Simulink](matlab-guides.zip.md) — 9 PDF

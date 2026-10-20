@@ -20,5 +20,6 @@
 | Templates.rar | [Templates.rar](https://github.com/VladShumilkin/shumilkin-portable-library/releases/download/library-2026-10-19/Templates.rar) | 1.3 |
 | useful-pictures.zip | [useful-pictures.zip](https://github.com/VladShumilkin/shumilkin-portable-library/releases/download/library-2026-10-19/useful-pictures.zip) | 1.7 |
 | VladLib.zip | [VladLib.zip](https://github.com/VladShumilkin/shumilkin-portable-library/releases/download/library-2026-10-19/VladLib.zip) | 496.1 |
+| матлаб гайды.zip — MATLAB и Simulink, 9 PDF | [matlab-guides.zip](https://github.com/VladShumilkin/shumilkin-portable-library/releases/download/library-2026-10-19/matlab-guides.zip) | 159 |
 
 Контрольные суммы: [SHA256SUMS.txt](https://github.com/VladShumilkin/shumilkin-portable-library/releases/download/library-2026-10-19/SHA256SUMS.txt).
